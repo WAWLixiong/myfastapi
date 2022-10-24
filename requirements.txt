@@ -3,3 +3,12 @@ uvicorn
 sqlalchemy
 passlib
 bcrypt
+pymysql
+python-multipart  # 上传文件
+python-jose
+aiofiles
+requests
+pytest
+jinja2
+websockets
+pytesseract
